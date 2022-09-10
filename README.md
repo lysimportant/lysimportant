@@ -6,7 +6,7 @@
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
 
-- 👴 我叫 <a href='https://yesmore.cc'>Juiçe</a>, 或者2meow.   
+- 👴 我叫 <a href='https://yesmore.cc'>𝐉𝐮𝐢ç𝐞</a>, 或者2meow.   
 - 💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
 - 🚀 倒装句患者 | 反射弧略长.</li> 
 - 🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的博客, 欢迎参观.
