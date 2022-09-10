@@ -6,7 +6,7 @@
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
 
-- 👴 我叫 <a href='https://yesmore.cc'>2meow</a>, 或者Juice.   
+- 👴 我叫 <a href='https://yesmore.cc'>Juiçe</a>, 或者2meow.   
 - 💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
 - 🚀 倒装句患者 | 反射弧略长.</li> 
 - 🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的博客, 欢迎参观.
@@ -26,7 +26,7 @@
     <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - 疯装的业务组件库</li>
     <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue3 UI Library </li>
     <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
-    <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 生活杂记</li>
+    <li>📘 <a href='https://yesmore.cc/cn/Diary/'>𝐉𝐮𝐢ç𝐞杂记</a> - 生活杂记</li>
 </ul>
 
 ## ✨ Tech & Skill
