@@ -19,7 +19,7 @@
 <img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML'/>
 
 <ul>
-    <li>🎨 <a href='https://gcloud.website'>𝐆𝐜𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
+    <li>🎨 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
     <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
     <li>🎨 <a href='https://cv-mkr.vercel.app'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
     <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器 </li>
