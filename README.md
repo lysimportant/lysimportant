@@ -15,7 +15,7 @@
 
 ## 🔥 My Tooooy
 
-<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML'/>
+<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
 <ul>
     <li>🎨 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
