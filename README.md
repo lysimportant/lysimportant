@@ -15,7 +15,7 @@
 
 ## 🔥 My Tooooy
 
-<img align='right' width='50%' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yesmore&theme=nord_dark'/>
+<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML'/>
 
 <ul>
     <li>🎨 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
