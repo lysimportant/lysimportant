@@ -19,13 +19,14 @@
 
 <ul>
     <li>🦄 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
+    <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤 𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
     <li>❓️ <a href='https://muyu.aoau.top'>功德救赎器</a> - 谁来救赎你？ </li>
     <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫 𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
     <li>🎨 <a href='https://cv-mkr.vercel.app'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
     <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器 </li>
     <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - 疯装的业务组件库</li>
     <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue3 UI Library </li>
-    <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤 𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
+    <li>👽️ <a href='http://showy.aoau.top/'>S𝐡𝐨𝐰𝐲</a> - 花里胡哨的像素</li>
     <li>📘 <a href='https://yesmore.cc/cn/Diary/'>𝐉𝐮𝐢ç𝐞杂记</a> - 生活杂记</li>
 </ul>
 
