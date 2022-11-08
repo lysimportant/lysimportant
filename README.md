@@ -57,7 +57,6 @@
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D299717355)](https://space.bilibili.com/299717355)
 	
-	
 ## 💬 Chating
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 <img src='https://img.shields.io/badge/-web前端养老院(不定期分享课程资源):982545311-414318?style=flat-square'/>	
