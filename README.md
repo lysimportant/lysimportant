@@ -6,9 +6,9 @@
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
 
 - 👴 我叫 <a href='https://yesmore.cc'>𝐉𝐮𝐢ç𝐞</a>, 或者2meow.   
-- 💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
+- 💼 坐标成都, <em>双流一</em>大学本科牲.</li>
 - 🚀 爱好<a href='https://500px.com.cn/community/user-details/816c1507a4879ad3a9ab28b2cdf655701'>摄影</a> | 倒装句患者 | 反射弧略长.</li> 
-- 🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的博客, 欢迎参观.
+- 🎯 正在学习 Swift，<a href='https://yesmore.cc'>快乐码原</a> 是我的博客, 欢迎参观.
 - 💁 欢迎加入 [**web前端养老院**](#-reach-me) 摸鱼.
 - ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !
 
