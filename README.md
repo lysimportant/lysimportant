@@ -57,10 +57,13 @@
 <a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D299717355)](https://space.bilibili.com/299717355)
+<a href='https://telegram.org/'><img src='https://img.shields.io/badge/-okJuice-ffeff1?style=flat-square&logo=Telegram'/></a>
 	
 ## 💬 Chating
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
-<img src='https://img.shields.io/badge/-web前端养老院(不定期分享课程资源):982545311-414318?style=flat-square'/>	
+<img src='https://img.shields.io/badge/-web前端养老院(不定期分享课程资源):982545311-414318?style=flat-square'/>
+<a href='https://t.me/+GPmjGxXYlYAwYjE1'><img src='https://img.shields.io/badge/-Juiçe的养老院(Channel)-ffeff1?style=flat-square&logo=Telegram'/></a>
+
 	
 <div align='middle'>
   <img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg#gh-dark-mode-only'/>
