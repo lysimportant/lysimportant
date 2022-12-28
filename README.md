@@ -61,7 +61,7 @@
 	
 ## 💬 Chating
 
-<a href='https://t.me/+GPmjGxXYlYAwYjE1'><img src='https://img.shields.io/badge/-Juiçe的养老院(Channel)-ffeff1?style=flat-square&logo=Telegram'/></a>
+<a href='https://t.me/+GPmjGxXYlYAwYjE1'><img src='https://img.shields.io/badge/-chat on channel-ffeff1?style=flat-square&logo=Telegram'/></a>
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 <img src='https://img.shields.io/badge/-web前端养老院(不定期分享课程资源):982545311-414318?style=flat-square'/>
 
