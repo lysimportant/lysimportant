@@ -3,7 +3,7 @@
   <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesmore%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 	
 </h1>
 
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
 
 - 👴 我叫 <a href='https://yesmore.cc'>𝐉𝐮𝐢ç𝐞</a>, 或者2meow.   
 - 💼 坐标成都, <em>双流一</em>大学本科牲.</li>
@@ -15,7 +15,7 @@
 
 ## 🔥 My Tooooy
 
-<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
+<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
 <ul>
     <li>🦄 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
