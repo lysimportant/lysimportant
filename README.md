@@ -13,7 +13,7 @@
 - ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !
 
 
-## 🔥 My Tooooy
+## 🔥 My Tooooys
 
 <img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
@@ -30,6 +30,17 @@
     <li>👽️ <a href='http://showy.aoau.top/'>S𝐡𝐨𝐰𝐲</a> - 花里胡哨的像素canvas</li>
     <li>📘 <a href='https://yesmore.cc/cn/Diary/'>𝐉𝐮𝐢ç𝐞杂记</a> - 生活杂记</li>
 </ul>
+
+## 🤖 Reach me
+
+<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc'/></a>
+<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a>
+<a href='https://t.me/okJuice'><img src='https://img.shields.io/badge/-okJuice-ffeff1?style=flat-square&logo=Telegram'/></a>
+<a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
+<a href='https://space.bilibili.com/299717355'><img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D299717355'/></a>
+<br>
+<img src='https://img.shields.io/badge/-web前端养老院:982545311-114318'/>
+<a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 
 <!--
 ## ✨ Tech & Skill
@@ -52,18 +63,9 @@
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
 </div>
- -->
-## 🤖 Reach me
-
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc'/></a> 
-<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
-<a href='https://t.me/okJuice'><img src='https://img.shields.io/badge/-okJuice-ffeff1?style=flat-square&logo=Telegram'/></a>
-<a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D299717355)](https://space.bilibili.com/299717355)
-<br><a href='https://t.me/+GPmjGxXYlYAwYjE1'><img src='https://img.shields.io/badge/-chat on channel-ffeff1?style=flat-square&logo=Telegram'/></a>
-<img src='https://img.shields.io/badge/-web前端养老院(不定期分享课程资源):982545311-414318?style=flat-square'/>
-<a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 
 <div align='middle'>
   <img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg#gh-dark-mode-only'/>
 </div>
+ -->
+
