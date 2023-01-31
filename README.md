@@ -43,7 +43,6 @@
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 
 
-
 <!--
 ## ✨ Tech & Skill
 
