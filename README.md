@@ -20,6 +20,7 @@
     <li>🦄 <a href='https://github.com/yesmore/aka.js'>𝐀𝐤𝐚.𝐣𝐬</a> - SSG 框架(开发中) </li>
     <li>🎯 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
     <li>🚀 <a href='https://github.com/yesmore/gh-buibuibui-tg'>𝐆𝐢𝐭𝐡𝐮𝐛 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦</a> - 消息推送 </li>
+    <li>✨ <a href='https://github.com/yesmore/gg-bot'>唧唧𝐛𝐨𝐭</a> - tg机器人 </li>
     <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤 𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
     <li>❓️ <a href='https://muyu.aoau.top'>功德救赎器</a> - 谁来救赎你？ </li>
     <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫 𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
