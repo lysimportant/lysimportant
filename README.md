@@ -18,7 +18,7 @@
 
 <ul>
     <li>🦄 <a href='https://github.com/yesmore/aka.js'>𝐀𝐤𝐚.𝐣𝐬</a> - SSG 框架(开发中) </li>
-    <li>🤡 <a href='https://gcloud.website'>问 · 即答</a> - 耶♂ 是ChatGPT~ </li>
+    <li>🤡 <a href='https://qa.js.cn'>问 · 即答</a> - 耶♂ 是ChatGPT~ </li>
     <li>🎯 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
     <li>🚀 <a href='https://github.com/yesmore/gh-buibuibui-tg'>𝐆𝐢𝐭𝐡𝐮𝐛 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦</a> - 消息推送 </li>
     <li>✨ <a href='https://github.com/yesmore/gg-bot'>唧唧𝐛𝐨𝐭</a> - tg机器人 </li>
