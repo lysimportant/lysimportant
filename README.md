@@ -17,7 +17,7 @@
 <img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
 <ul>
-    <li>🦄 <a href='https://github.com/yesmore/aka.js'>𝐀𝐤𝐚.𝐣𝐬</a> - SSG 框架(开发中) </li>
+    <li>🦄 <a href='https://aka.js.cn'>𝐀𝐤𝐚.𝐣𝐬</a> - SSG 框架(开发中) </li>
     <li>🎯 <a href='https://gcloud.website'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
     <li>🚀 <a href='https://github.com/yesmore/gh-buibuibui-tg'>𝐆𝐢𝐭𝐡𝐮𝐛 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦</a> - 消息推送 </li>
     <li>✨ <a href='https://github.com/yesmore/gg-bot'>唧唧𝐛𝐨𝐭</a> - tg机器人 </li>
